@@ -70,3 +70,53 @@ dönemine kadar test etmeye zaman bırakıyor.
 - [Exploding Topics – Trending Product Topics (Eylül 2026)](https://explodingtopics.com/product-topics)
 - [TikTok – Made Me Buy It 2026](https://www.tiktok.com/discover/tiktok-made-me-buy-it-2026?lang=en)
 - [TODAY – Amazon Bestsellers September 2026](https://www.today.com/shop/amazon-september-bestsellers-2026-rcna594127)
+
+---
+
+# 2. Tur: Türkiye'de henüz yaygın olmayan ürünler
+
+İlk listedeki ürünler Türkiye'de zaten çok satılıyor. Bu turda yurt dışında
+**yeni yükselen** ürünleri aradım ve bazılarını Trendyol'da kontrol ettim.
+
+## Trendyol kontrolü
+
+| Ürün | Trendyol durumu | Sonuç |
+|---|---|---|
+| Şarjlı kablosuz masa lambası | 88+ sayfa ürün var | ❌ Doymuş |
+| Manyetik buzdolabı rafı | Birçok satıcı var | ❌ Doymuş |
+| Köpek sakinleştirici çadır | Sadece sakinleştirici damla ve normal köpek çadırı var, ikisini birleştiren ürün çıkmadı | ✅ Boşluk olabilir |
+
+## Aday ürünler (yurt dışında yeni yükselen)
+
+| # | Ürün | Nereden çıktı | Neden fırsat olabilir |
+|---|---|---|---|
+| 1 | **Evcil hayvan sakinleştirici çadır / mağara yatak** | TikTok & Amazon Eylül bulguları | Kasım–Aralık havai fişek dönemi, "köpeğim korkuyor" derdi. Trendyol'da tam karşılığı az |
+| 2 | **Temassız klozet sifon sensörü** | TikTok & Amazon Eylül bulguları | Hijyen ürünü, "elini değdirme" videosu çok etkili; Türkiye'de nadir |
+| 3 | **Bulut seyahat yastığı** (U yastık yerine) | Sell The Trend – düşük rekabetli ürünler | Klasik U yastığa yeni bir alternatif, bayram ve tatil dönemlerinde satar |
+| 4 | **Yılbaşı temalı yıkanabilir kapı paspası** | Sell The Trend – düşük rekabetli ürünler | Yılbaşı öncesi Kasım'da satılır, kolay gösterilir |
+| 5 | **Katlanabilir sehpa** | TikTok & Amazon Eylül bulguları | Küçük evler ve öğrenci evleri için; "aç-kapa" videosu çok izlenir |
+| 6 | **Köpek pati kaydırmaz pedleri** | TikTok & Amazon Eylül bulguları | Parkede kayan yaşlı köpekler için; ucuz ve hafif |
+| 7 | **Kendini temizleyen evcil hayvan tarağı** | TikTok & Amazon Eylül bulguları | Tek tuşla tüyü atan tarak; önce/sonra videosu |
+| 8 | **Mikroplastik su filtresi (musluk/sürahi)** | Exploding Topics – yükselen ürünler | Sağlık endişesi büyüyor; Türkiye'de henüz az konuşuluyor |
+| 9 | **Jel dolgulu sıkma oyuncağı (gummy / jelly squish)** | TikTok 2026'nın viral oyuncağı; ABD'de NeeDoh stokları tükendi | Yetişkinlerde de stres oyuncağı olarak satılıyor. **Markalı (NeeDoh) değil, markasız muadil sat** |
+
+> ⚠️ 2–9 numaralı ürünleri Trendyol'da tek tek kontrol edemedim. Her birini
+> Trendyol'da arat. **Az ürün ve az yorum** varsa fırsattır. Hiç ürün yoksa
+> Türk tedarikçi de bulamayabilirsin; o durumda önce tedarikçiyi ara.
+
+## Önemli gerçek
+
+Yurt dışında viral olan ürünlerin çoğu Çinli satıcılar sayesinde 1–3 ay içinde
+Trendyol'a geliyor. "Türkiye'de hiç satılmayan ürün" çok nadir. Türkiye'de
+satılıyor olması **talebin var olduğunu** da gösterir. Kazananı belirleyen
+çoğu zaman üründen çok **sunum**: daha iyi video, daha iyi fotoğraf, daha iyi
+açıklama ve güven veren bir mağaza.
+
+## Ek kaynaklar
+
+- [Sell The Trend – Low Competition Winning Products 2026](https://www.sellthetrend.com/blog/top-low-competition-winning-products)
+- [Exploding Topics – Trending Product Topics](https://explodingtopics.com/product-topics)
+- [TikTok – Trending Products 2026](https://www.tiktok.com/discover/trending-products-2026)
+- [NeeDoh – Wikipedia](https://en.wikipedia.org/wiki/NeeDoh)
+- [Trendyol – Kablosuz Şarjlı Masa Lambası](https://www.trendyol.com/kablosuz-sarjli-masa-lambasi-y-s30947)
+- [Trendyol – Köpek Çadırı](https://www.trendyol.com/kopek-cadiri-y-s290812)
